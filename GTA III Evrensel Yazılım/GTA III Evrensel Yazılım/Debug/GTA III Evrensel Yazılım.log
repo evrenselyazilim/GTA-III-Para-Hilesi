@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\dtop\GTA III Evrensel Yazılım\GTA III Evrensel Yazılım\GTA III Evrensel Yazılım\main.cpp(26,12): warning C4102: 'moneyError': etiket başvurusu kaldırıldı
+D:\dtop\GTA III Evrensel Yazılım\GTA III Evrensel Yazılım\GTA III Evrensel Yazılım\main.cpp(95): warning C4715: 'readFromMem': tüm denetim yolları değer döndürmez
+  GTA III Evrensel Yazılım.vcxproj -> D:\dtop\GTA III Evrensel Yazılım\GTA III Evrensel Yazılım\Debug\GTA III Evrensel Yazılım.exe
